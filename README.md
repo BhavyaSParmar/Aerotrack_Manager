@@ -16,7 +16,7 @@ The system follows a hierarchical approach, starting from a broad ecosystem and 
 ## **Tech Stack**
 - **Java** (Core logic)
 - **Object-Oriented Design** 
-- **Data Structures** HashMaps, Lists)
+- **Data Structures** HashMaps, Lists
 - **Swing/JavaFX** 
 - **MySQL/PostgreSQL** 
 
@@ -36,6 +36,6 @@ The system follows a hierarchical approach, starting from a broad ecosystem and 
 4. Run the application.
 
 ## **Future Enhancements**
-- API integration for enterprise-wide communication  
-- Advanced UI/UX improvements  
-- Real-time data visualization  
+- API integration for enterprise-wide communication.
+- Advanced UI/UX improvements.
+- Real-time data visualization.  
