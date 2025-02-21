@@ -15,10 +15,10 @@ The system follows a hierarchical approach, starting from a broad ecosystem and 
 
 ## **Tech Stack**
 - **Java** (Core logic)
-- **Object-Oriented Design** (Encapsulation, Inheritance, and Polymorphism)
-- **Data Structures** (HashMaps, Lists)
-- **Swing/JavaFX** *(If UI is implemented)*
-- **MySQL/PostgreSQL** *(If a database is integrated)*
+- **Object-Oriented Design** 
+- **Data Structures** HashMaps, Lists)
+- **Swing/JavaFX** 
+- **MySQL/PostgreSQL** 
 
 ## **Features**
 ✅ Enterprise and organization hierarchy management  
