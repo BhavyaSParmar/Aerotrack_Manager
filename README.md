@@ -32,7 +32,7 @@ The system follows a hierarchical approach, starting from a broad ecosystem and 
    git clone https://github.com/your-username/enterprise-management-system.git
    ```
 2. Open the project in your preferred Java IDE.  
-3. Configure database connection *(if applicable)*.  
+3. Configure database connection.  
 4. Run the application.
 
 ## **Future Enhancements**
