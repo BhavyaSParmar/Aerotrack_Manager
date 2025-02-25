@@ -6,7 +6,7 @@ This **Enterprise Management System** is a Java-based application designed to st
 ## **Project Structure**
 The system follows a hierarchical approach, starting from a broad ecosystem and breaking down into specific enterprises, organizations, user credentials, employees, and roles.
 
-### **Key Components**
+### **Key Components** 
 - **Ecosystem & Enterprise Directory**: The root of the system, managing various enterprises.
 - **Enterprises**: Includes Fleet, People, Finance, and Maintenance enterprises.
 - **Organizations**: Subdivisions such as Boeing, Airbus, Payroll, and Repair organizations.
